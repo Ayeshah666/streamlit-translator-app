@@ -1,2 +1,2 @@
 streamlit
-googletrans-py
+googletrans-py==0.0.1
