@@ -1,5 +1,5 @@
 import streamlit as st
-from googletrans_py import Translator
+from googletrans import Translator
 
 # Set page config
 st.set_page_config(page_title="Language Translator", page_icon="🌍", layout="centered")
